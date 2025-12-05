@@ -253,3 +253,4 @@ All agents must support this core mission:
 > Trusted Treks provides zero-emission, community-first, professionally operated EV transportation in Colorado Springs, balancing revenue, safety, and impact.
 
 If a decision conflicts with the mission, GPT-8 must flag it and suggest an alternative.
+Add Master AI OS Guide
